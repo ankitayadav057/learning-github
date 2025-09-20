@@ -1,2 +1,2 @@
 # learning-github
-This is demo for learning gitub
+This is demo for learning gitub.
